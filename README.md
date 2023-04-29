@@ -3,7 +3,7 @@
 ## &nbsp; 👨🏻‍💻 About me:
 
 - 👨‍🎓 &nbsp; Engineer Graduate at SRKR Engineering College - Andhra University
-- ⌨️ &nbsp; Experienced in Provisioning and Managing Cloud Infrastructure, Automation, and Experienced in handling the Entire CICD Lifecycle.
+- ⌨️ &nbsp; Experienced in Provisioning and Managing Cloud Infrastructure, Automation, and Experienced in handling CICD Lifecycle.
 - 🌱 &nbsp; Currently Working on Azure DevOps and O365 Stack
 - 💡 &nbsp; [My DevOps Blog](https://saitejairrinki.github.io/)
 

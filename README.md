@@ -23,5 +23,22 @@
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
+<h3> 📈 &nbsp;My Stats</h3>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=saitejairrinki&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saitejairrinki&theme=buefy&show_icons=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejairrinki&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=saitejairrinki&theme=dark)
+  
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saitejairrinki&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+</div>

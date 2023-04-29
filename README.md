@@ -24,15 +24,9 @@
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
 
-## 📈 &nbsp;My Status
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saitejairrinki&theme=buefy&show_icons=true" />
+## 📈 &nbsp;Stats
 
 
-
-</div>
 
 <br/>
 

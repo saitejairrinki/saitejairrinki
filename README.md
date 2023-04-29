@@ -23,7 +23,8 @@
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-<h3> 📈 &nbsp;My Stats</h3>
+
+## 📈 &nbsp;My Status
 
 <div align="center">
 

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=35&duration=2000&pause=1000&color=00F7DC&width=435&lines=I'm+SAI+TEJA+IRRINKI;DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=1500&pause=1000&color=59C8BB&width=435&lines=Nice+to+Meet+you...%F0%9F%98%83%09;I'm+SAITEJA+IRRINKI;DevOps+Engineer)](https://git.io/typing-svg)
 
 ## &nbsp; 👨🏻‍💻 About me:
 

@@ -13,19 +13,15 @@
 ![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-red)
 ![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure%20%7C%20GCP-blue)
 ![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Shell-lemon)
-![Configuration Management](https://img.shields.io/badge/Configuration%20%7C%20Management-Ansible-black)
+![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-black)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
-![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
+![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
+![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
+![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Apache%20Tomcat-violet)
+![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
 
-## 📈 &nbsp;Stats
 
+## 📈 &nbsp;Statistics 
 
 
 <br/>

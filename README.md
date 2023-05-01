@@ -28,7 +28,7 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saitejairrinki&theme=dark)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=saitejairrinki&theme=dark&dates=69C8BB)
   
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saitejairrinki&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 

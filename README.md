@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=59C8BB&width=400&lines&height=70&lines=Nice+to+Meet+you...%F0%9F%98%83%09;I'm+SAITEJA+IRRINKI;DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=C2D500&width=400&lines&height=70&lines=Nice+to+Meet+you...%F0%9F%98%83%09;I'm+SAITEJA+IRRINKI;DevOps+Engineer)](https://git.io/typing-svg)
 
 ## &nbsp; 👨🏻‍💻 About me:
 

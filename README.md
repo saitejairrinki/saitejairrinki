@@ -19,7 +19,7 @@
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)
 ![WebServer](https://img.shields.io/badge/Webserver-Apache%20Server%20%7C%20Apache%20Tomcat-violet)
-![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue)
+![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue) 
 
 
 ## 📈 &nbsp;Statistics 

@@ -22,7 +22,7 @@
 ![Virtualization](https://img.shields.io/badge/Virtualization-Vagrant-skyblue) 
 
 
-## 📈 &nbsp;Statistics 
+## <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/logo.svg" width="40px"> &nbsp;Statistics 
 
 
 <br/> 

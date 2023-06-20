@@ -14,7 +14,7 @@
 ![OS](https://img.shields.io/badge/Operating%20Systems-Linux%20%7C%20Windows-red)
 ![Cloud](https://img.shields.io/badge/Cloud%20Platform-AWS%20%7C%20Azure%20%7C%20GCP-blue)
 ![Scripting](https://img.shields.io/badge/Scripting-PowerShell%20%7C%20Shell-lemon)
-![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-black)
+[![Configuration Management](https://img.shields.io/badge/Configuration%20Management-Ansible-black)](https://medium.com/@saitejairrinki/ansible-55bad874fe19)
 ![Cloud](https://img.shields.io/badge/IAAC-Terraform-teal)
 ![CICD](https://img.shields.io/badge/CICD-Jenkins%20%7C%20Azure%20DevOps-yellow)
 ![Code Quality](https://img.shields.io/badge/Code%20Analysis-SonarQube/Cloud-teal)

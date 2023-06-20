@@ -31,6 +31,6 @@
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=saitejairrinki&theme=dark&dates=00e673)
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saitejairrinki&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+[![Saiteja Irrinki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saitejairrinki&theme=react-dark)](https://github.com/saitejairrinki/github-readme-activity-graph)
 
 </div>

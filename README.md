@@ -11,7 +11,6 @@
 
 ## 🛠 &nbsp; Tech Stack
 
-<h2 align='center'><i>🛠 Tech Stack </i></h2>
 
 <table width="100">
 <tr>

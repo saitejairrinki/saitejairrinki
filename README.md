@@ -73,7 +73,7 @@
 
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=saitejairrinki&theme=dark&dates=00e673)
+![Saiteja Irrinki GitHub stats](https://github-readme-stats.vercel.app/api?username=saitejairrinki\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
   
 [![Saiteja Irrinki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saitejairrinki&theme=react-dark)](https://github.com/saitejairrinki/github-readme-activity-graph)
 

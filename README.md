@@ -12,53 +12,53 @@
 ## 🛠 &nbsp; Tech Stack
 
 
-<table width="100">
+<table>
 <tr>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=linux" width="70" >
     </td>
-    <td align='center' width="190">
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="50">
+    <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="70" >
     </td>
-    <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="50" >
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70">
     </td>
-     <td align='center' width="190">
-        <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="70">
+     <td align='center'>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" >
     </td>
-    <td align='center'  width="190">
-        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" width="70" >
-    </td>
-</tr>
-<tr>
-    <td align='center' width="190">
-        <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="80" height="75" >
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" width="80" height="80">
-    </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="80" >
-    </td>
-     <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" width="70">
-    </td>
-    <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg">
+    <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" width="70">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg">
+        <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="70">
     </td>
     <td align='center'>
-        <img src="https://zeevector.com/wp-content/uploads/Microsoft-Azure-DevOps-logo.png" width="100" >
+        <img src="https://skillicons.dev/icons?i=ansible" width="70">
     </td>
     <td align='center'>
-        <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="70" >
+        <img src="https://skillicons.dev/icons?i=bash" width="70">
+    </td>
+     <td align='center'>
+        <img src="https://skillicons.dev/icons?i=powershell" width="70">
     </td>
     <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg">
+        <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="66" /></div>
+    </td>
+</tr>
+<tr>
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=jenkins" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="70">
+    </td>
+    <td align='center'>
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70">
     </td>
     <td align='center'>
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" >
@@ -78,3 +78,5 @@
 [![Saiteja Irrinki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saitejairrinki&theme=react-dark)](https://github.com/saitejairrinki/github-readme-activity-graph)
 
 </div>
+
+<img src="https://camo.githubusercontent.com/f70b425aafbef383f0ec7b86678a85eb7a4b7a7923fb24fda1df3f4866e001c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;" width="65" height="65"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28e6f144aefcedd9d0fd391a0415271fd795970a553e67967583ecee08f9dd95/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667">

@@ -15,7 +15,7 @@
 <table>
 <tr>
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=linux" width="80" >
+        <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="80" >
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/microsoft.gif" width="100" >

@@ -15,53 +15,62 @@
 <table>
 <tr>
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=linux" width="70" >
+        <img src="https://skillicons.dev/icons?i=linux" width="80" >
     </td>
     <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" width="70" >
+        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/microsoft.gif" width="100" >
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="70">
+        <img src="https://skillicons.dev/icons?i=azure" width="80">
     </td>
      <td align='center'>
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="70" >
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
     </td>
     <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-2.svg" width="70">
+        <img src="https://skillicons.dev/icons?i=gcp" width="80">
+    </td>
+        <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="70">
+        <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
     </td>
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=ansible" width="70">
+        <img src="https://skillicons.dev/icons?i=ansible" width="80">
     </td>
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=bash" width="70">
+        <img src="https://skillicons.dev/icons?i=bash" width="80">
     </td>
      <td align='center'>
-        <img src="https://skillicons.dev/icons?i=powershell" width="70">
+        <img src="https://skillicons.dev/icons?i=powershell" width="80">
     </td>
     <td align='center'>
-        <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="66" /></div>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" >
     </td>
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=vim" width="80" >
+    </td>    
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=jenkins" width="70">
+        <img src="https://skillicons.dev/icons?i=jenkins" width="80">
     </td>
     <td align='center'>
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" width="70">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="70">
+        <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
     </td>
     <td align='center'>
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" >
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" >
+    <td align='center'>
+        <img src="https://skillicons.dev/icons?i=html" width="80" >
+    </td>        
     </td>
 </tr>
 </table>

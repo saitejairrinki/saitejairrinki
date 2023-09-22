@@ -38,7 +38,7 @@
   <a href="https://softwarelife.github.io/devops/terraform/">
     <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90" alt="Terraform">
   </a>
-</td>    </td>
+</td>
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=ansible" width="80">
     </td>

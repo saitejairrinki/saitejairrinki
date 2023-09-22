@@ -67,7 +67,9 @@
         <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
     </td>
     <td align='center'>
+                <a href="https://softwarelife.github.io/devops/docker-setup/">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
+                </a>
     </td>
     <td align='center'>
        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">

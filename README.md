@@ -32,11 +32,10 @@
         <td align='center'>
         <img src="https://skillicons.dev/icons?i=vscode" width="80">
     </td>
-</tr>
 <tr>
     <td align='center'>
   <a href="https://softwarelife.github.io/devops/terraform/">
-    <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90" alt="Terraform">
+    <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
   </a>
 </td>
     <td align='center'>

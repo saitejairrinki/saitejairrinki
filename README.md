@@ -94,4 +94,3 @@
 
 </div>
 
-<img src="https://camo.githubusercontent.com/f70b425aafbef383f0ec7b86678a85eb7a4b7a7923fb24fda1df3f4866e001c9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6370702d69636f6e2e737667" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/cpp-icon.svg" style="max-width: 100%;" width="65" height="65"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/28e6f144aefcedd9d0fd391a0415271fd795970a553e67967583ecee08f9dd95/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6373686172702d69636f6e2e737667">

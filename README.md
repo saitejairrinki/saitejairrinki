@@ -61,7 +61,7 @@
         <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg">
     </td>
     <td align='center'>
-        <img src="https://juststickers.in/wp-content/uploads/2018/11/kubernetes-wordmark.png" width="70" >
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="70" >
     </td>
 </tr>
 </table>

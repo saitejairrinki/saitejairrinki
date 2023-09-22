@@ -35,8 +35,10 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90">
-    </td>
+  <a href="https://softwarelife.github.io/devops/terraform/">
+    <img src="https://www.svgrepo.com/show/376353/terraform.svg" width="90" alt="Terraform">
+  </a>
+</td>    </td>
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=ansible" width="80">
     </td>
@@ -67,7 +69,7 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
     </td>
     <td align='center'>
-       ![k8s <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80"] (https://softwarelife.github.io/devops/kubernetes/) >
+       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=html" width="80" >
     </td>        

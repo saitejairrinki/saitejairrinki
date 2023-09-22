@@ -21,17 +21,18 @@
         <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/microsoft.gif" width="100" >
     </td>
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=azure" width="80">
+        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Vagrant.gif" width="80" >
+    </td>
+    <td align='center'>
+        <img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/azure.gif?raw=true" width="80">
     </td>
      <td align='center'>
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
     </td>
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=gcp" width="80">
+        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Google%20Cloud.gif" width="80">
     </td>
-        <td align='center'>
-        <img src="https://skillicons.dev/icons?i=vscode" width="80">
-    </td>
+
 <tr>
     <td align='center'>
   <a href="https://softwarelife.github.io/devops/terraform/">
@@ -50,7 +51,7 @@
         <img src="https://skillicons.dev/icons?i=powershell" width="80">
     </td>
     <td align='center'>
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" >
+        <img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/Git.gif?raw=true" alt="icon" width="80" >
     </td>
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vim" width="80" >
@@ -61,7 +62,7 @@
         <img src="https://skillicons.dev/icons?i=jenkins" width="80">
     </td>
     <td align='center'>
-        <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" width="80">
+        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Azure%20Devops.gif" width="80">
     </td>
     <td align='center'>
         <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
@@ -74,7 +75,7 @@
     <td align='center'>
        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
     <td align='center'>
-        <img src="https://skillicons.dev/icons?i=html" width="80" >
+        <img src="https://skillicons.dev/icons?i=vscode" width="80">
     </td>        
     </td>
 </tr>

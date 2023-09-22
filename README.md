@@ -39,7 +39,9 @@
   </a>
 </td>
     <td align='center'>
+        <a href="https://softwarelife.github.io/devops/ansible/">
         <img src="https://skillicons.dev/icons?i=ansible" width="80">
+        </a>   
     </td>
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=bash" width="80">

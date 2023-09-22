@@ -24,7 +24,7 @@
         <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Vagrant.gif" width="80" >
     </td>
     <td align='center'>
-        <img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/azure.gif?raw=true" width="80">
+        <img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/azure.gif?raw=true" width="90">
     </td>
      <td align='center'>
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >

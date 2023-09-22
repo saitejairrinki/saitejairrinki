@@ -81,6 +81,8 @@
 </tr>
 </table>
 
+<img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/terminal.gif?raw=true" >
+
 ## <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/logo.svg" width="40px"> &nbsp;Statistics 
 
 

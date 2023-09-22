@@ -67,7 +67,7 @@
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80">
     </td>
     <td align='center'>
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" >
+       ![k8s <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80"] (https://softwarelife.github.io/devops/kubernetes/) >
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=html" width="80" >
     </td>        

@@ -31,6 +31,8 @@
     </td>
     <td align='center'>
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="80">
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
     </td>
 
 <tr>
@@ -55,7 +57,10 @@
     </td>
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vim" width="80" >
-    </td>    
+    </td>  
+    <td align='center'>
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/08b2a31b78041811e266e1cf2d47e7b2020a5e4a/gifs/Prometheus.gif" width="80">
+    </td>
 </tr>
 <tr>
     <td align='center'>
@@ -76,8 +81,9 @@
        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80">
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vscode" width="80">
+     <td align='center'>
+        <img src="https://skillicons.dev/icons?i=markdown" width="80">
     </td>        
-    </td>
 </tr>
 </table>
 

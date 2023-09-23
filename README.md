@@ -21,16 +21,16 @@
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Vagrant.gif" width="80" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="80" >
     </td>
     <td align='center'>
-        <img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/azure.gif?raw=true" width="90">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="90">
     </td>
      <td align='center'>
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Google%20Cloud.gif" width="80">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="80">
     </td>
 
 <tr>
@@ -51,7 +51,7 @@
         <img src="https://skillicons.dev/icons?i=powershell" width="80">
     </td>
     <td align='center'>
-        <img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/Git.gif?raw=true" alt="icon" width="80" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
     </td>
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vim" width="80" >
@@ -62,7 +62,7 @@
         <img src="https://skillicons.dev/icons?i=jenkins" width="80">
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Azure%20Devops.gif" width="80">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="80">
     </td>
     <td align='center'>
         <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
@@ -81,7 +81,7 @@
 </tr>
 </table>
 
-<img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/terminal.gif?raw=true" >
+<img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terminal.gif" >
 
 ## <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/logo.svg" width="40px"> &nbsp;Statistics 
 

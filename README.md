@@ -18,7 +18,7 @@
         <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="70" >
     </td>
     <td align='center'>
-        <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/microsoft.gif" width="100" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
     </td>
     <td align='center'>
         <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/Vagrant.gif" width="80" >

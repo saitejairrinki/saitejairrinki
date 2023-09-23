@@ -89,7 +89,7 @@
 
 <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terminal.gif" >
 
-## <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/42ef9eee568769795fe6fe7d8d1b1259cda8d773/asset/logo.svg" width="40px"> &nbsp;Statistics 
+## :bar_chart: Statistics 
 
 
 <br/> 

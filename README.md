@@ -14,7 +14,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/az400.gif" width="150" height="150">
+      <img src="https://github.com/saitejairrinki/Documents/blob/main/gifs/ezgif.com-gif-maker%20(1).gif?raw=true" width="150" height="150">
     </td>
   </tr>
 </table>

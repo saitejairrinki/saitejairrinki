@@ -1,12 +1,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=00E4A9&width=400&&repeat=true&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+SAITEJA+IRRINKI;DevOps+Engineer)](https://git.io/typing-svg)
 
-## &nbsp; 👨🏻‍💻 About me:
+## &nbsp; 👨🏻‍💻My Story So Far:
+<table>
+  <tr>
+    <td style="border: none; padding: 0;">
+      <ul class="table-link">
+        <li><strong>🏅 Certified as a DevOps engineer by Microsoft</strong></li>
+        <li><strong>⌨️ Proficient in Cloud Infrastructure Management, Automation, and CICD Lifecycle.</strong></li>  
+        <li><strong>👨‍🎓 Engineer Graduate at SRKR Engineering College - Andhra University</strong></li>
+        <li><strong>🌱 Currently Working on Azure DevOps and O365 Automation</strong></li>
+        <li><strong>🌐 <a href="https://saitejairrinki.github.io/" style="pointer-events: auto;">My Website</a></strong></li>
+        <li><strong>💡 <a href="https://softwarelife.github.io/" style="pointer-events: auto;">My DevOps Blog</a></strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/saitejairrinki/Documents/main/gifs/az400.gif" width="150" height="150">
+    </td>
+  </tr>
+</table>
 
-- 👨‍🎓 &nbsp; Engineer Graduate at SRKR Engineering College - Andhra University
-- ⌨️ &nbsp; Experienced in Provisioning and Managing Cloud Infrastructure, Automation, and Experienced in handling CICD Lifecycle.
-- 🌱 &nbsp; Currently Working on Azure DevOps and O365 Automation
-- 🌐 &nbsp; [My Website](https://saitejairrinki.github.io/)
-- 💡 &nbsp; [My DevOps Blog](https://softwarelife.github.io/)
+
 
 
 ## 🛠 &nbsp; Tech Stack
@@ -87,7 +100,7 @@
 </tr>
 </table>
 
-<img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terminal.gif" >
+<img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terminal.gif" > 
 
 ## :bar_chart: Statistics 
 

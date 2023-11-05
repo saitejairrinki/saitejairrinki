@@ -5,10 +5,10 @@
   <tr>
     <td style="border: none; padding: 0;">
       <ul class="table-link">
-        <li><strong>🏅 Certified as a DevOps engineer by Microsoft</strong></li>
+        <li><strong>🏅 Certified as a DevOps Engineer by Microsoft</strong></li>
         <li><strong>⌨️ Proficient in Cloud Infrastructure Management, Automation, and CICD Lifecycle.</strong></li>  
         <li><strong>👨‍🎓 Engineer Graduate at SRKR Engineering College - Andhra University</strong></li>
-        <li><strong>🌱 Currently Working on Azure DevOps and O365 Automation</strong></li>
+        <li><strong>🌱 Currently Working on Azure DevOps and Kubernetes/Helm</strong></li>
         <li><strong>🌐 <a href="https://saitejairrinki.github.io/" style="pointer-events: auto;">My Website</a></strong></li>
         <li><strong>💡 <a href="https://softwarelife.github.io/" style="pointer-events: auto;">My DevOps Blog</a></strong></li>
       </ul>

@@ -72,7 +72,7 @@
         <img src="https://skillicons.dev/icons?i=vim" width="80" >
     </td>  
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/08b2a31b78041811e266e1cf2d47e7b2020a5e4a/gifs/Prometheus.gif" width="80">
+        <img src="https://miro.medium.com/v2/resize:fit:303/1*nViWw5hFgS7l3vu1RkO3YA.png" width="80">
     </td>
 </tr>
 <tr>

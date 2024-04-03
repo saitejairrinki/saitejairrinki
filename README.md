@@ -14,7 +14,8 @@
       </ul>
     </td>
     <td>
-      <img src="https://bitbucket.org/devopslogosgifs/documents/raw/cfa8ac074fecf132bfabc1a772544054d760b114/gifs/ezgif.com-gif-maker%20(1).gif" width="150" height="150">
+      <a href="https://raw.githubusercontent.com/saitejairrinki/azuredevops/main/AZ400.png">
+     <img src="https://bitbucket.org/devopslogosgifs/documents/raw/cfa8ac074fecf132bfabc1a772544054d760b114/gifs/ezgif.com-gif-maker%20(1).gif" width="150" height="150">
     </td>
   </tr>
 </table>

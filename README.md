@@ -84,7 +84,7 @@
         <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/Azure%20Devops.gif" width="80">
     </td>
     <td align='center'>
-        <img src="https://images.seeklogo.com/logo-png/42/1/sonarcloud-logo-png_seeklogo-428363.png" width="80">
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarcloud-1.svg" width="80">
     </td>
     <td align='center'>
                 <a href="https://softwarelife.github.io/devops/docker-setup/">

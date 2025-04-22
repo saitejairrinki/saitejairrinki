@@ -32,21 +32,21 @@
         <img src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif" width="70" >
     </td>
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/microsoft.gif" width="100" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/microsoft.gif" width="100" >
     </td>
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Vagrant.gif" width="80" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/Vagrant.gif" width="80" >
     </td>
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/azure.gif" width="90">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/azure.gif" width="90">
     </td>
      <td align='center'>
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="80" >
     </td>
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Google%20Cloud.gif" width="80">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/Google%20Cloud.gif" width="80">
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Grafana.gif" width="80">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/Grafana.gif" width="80">
     </td>
 
 <tr>
@@ -67,7 +67,7 @@
         <img src="https://skillicons.dev/icons?i=powershell" width="80">
     </td>
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Git.gif" width="80" >
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/Git.gif" width="80" >
     </td>
     <td align='center'>
         <img src="https://skillicons.dev/icons?i=vim" width="80" >
@@ -81,10 +81,10 @@
         <img src="https://skillicons.dev/icons?i=jenkins" width="80">
     </td>
     <td align='center'>
-        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/Azure%20Devops.gif" width="80">
+        <img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/Azure%20Devops.gif" width="80">
     </td>
     <td align='center'>
-        <img src="https://seeklogo.com/images/S/sonarcloud-logo-39208B5388-seeklogo.com.png" width="80">
+        <img src="https://images.seeklogo.com/logo-png/42/1/sonarcloud-logo-png_seeklogo-428363.png" width="80">
     </td>
     <td align='center'>
                 <a href="https://softwarelife.github.io/devops/docker-setup/">
@@ -101,7 +101,7 @@
 </tr>
 </table>
 
-<img src="https://bitbucket.org/devopslogosgifs/documents/raw/3d7efe6fe664138cc915523d7f8d789e6b0dae6f/gifs/terminal.gif" > 
+<img src="https://bitbucket.org/devopslogosgifs/documents/raw/e195d010265dafe5b9e4a5cd53874fc87d77990f/gifs/terminal.gif" > 
 
 ## :bar_chart: Statistics 
 
